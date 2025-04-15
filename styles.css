@@ -168,7 +168,6 @@ HIGHLIGHTS
     z-index: 1;
     background-size: cover;
     background-repeat: no-repeat;
-    transform: translateY(-100%)
 }
 
 #highlights:before {
@@ -177,7 +176,7 @@ HIGHLIGHTS
    
 }
 
-#highlight:after {
+#highlights:after {
     transform: translateY(100%) rotate(180deg);
     bottom: 1px;
 }
