@@ -443,4 +443,14 @@ footer {
         margin-bottom: 24px;
         
     }
+    
+    .book {
+        width: 100%;
+    }
+
+    .books {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
